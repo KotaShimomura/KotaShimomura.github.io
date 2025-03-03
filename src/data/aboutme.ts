@@ -18,22 +18,22 @@ export interface AboutMe {
 }
 
 export const aboutMe: AboutMe = {
-  name: "Jane R. Smith",
-  title: "Ph.D. Candidate",
-  institution: "Stanford University",
+  name: "Kota Shimomura",
+  title: "Ph.D. Student",
+  institution: "Chubu University",
   // Note that links work in the description
   description:
-    "I'm a final-year <a href='https://www.stanford.edu'>PhD candidate</a> working at the intersection of causal inference and machine learning. My research focuses on developing robust, interpretable systems that can reason about cause and effect in complex environments.",
-  email: "______@stanford.edu",
-  imageUrl:
-    "https://images.unsplash.com/photo-1581481615985-ba4775734a9b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  googleScholarUrl: "https://scholar.google.com/citations?user=bWtMl_MAAAAJ",
-  githubUsername: "janesmith",
-  linkedinUsername: "janesmith",
-  twitterUsername: "janesmith",
-  blogUrl: "https://",
-  cvUrl: "https://",
-  institutionUrl: "https://www.stanford.edu",
+    "I'm a first-year <a href='https://www.chubu.ac.jp/english/'>PhD student</a> working at the CV(computer vision) and VLM(vision and language) in MPRG. My research focuses on Autonomous Driving, ADAS system. I am interested in technologies for safe autonomous driving systems using computer vision and vision and language.I am also looking for research internships and study abroad opportunities.",
+  email: "shimo@mprg.cs.chubu.ac.jp",
+  // imageUrl:
+  //   "https://ibb.co/F4xfDKPV",
+  googleScholarUrl: "https://scholar.google.com/citations?user=0A_HXBwAAAAJ&hl=ja",
+  githubUsername: "kotashimomura",
+  // linkedinUsername: "kotashimomura",
+  twitterUsername: "Naruch11",
+  // blogUrl: "https://",
+  cvUrl: "https://drive.google.com/file/d/16YGTlgtXnsiR7sqEfi4SplA52Or8wcX-/view?usp=sharing",
+  institutionUrl: "https://www.chubu.ac.jp/english/",
   // altName: "",
   // secretDescription: "I like dogs.",
 };
