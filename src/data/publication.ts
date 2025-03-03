@@ -67,5 +67,5 @@ export const publicationData: Publication[] = [
     // tldr: "Potential Risk Estimation with Single Monocular Camera.",
     // if you have an image in public/images, you can use it like this:
     // imageUrl: "/images/publication-image.jpg"
-  }
+  },
 ];
