@@ -9,8 +9,8 @@ export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
   {
     date: "March 2025",
-    title: "Paper accepted at ICML Workshop 2025",
-    description: "A multi-agent system with dynamic knowledge integration at ICML Workshop 2025.",
+    title: "Paper accepted at ICLR Workshop 2025",
+    description: "A multi-agent system with dynamic knowledge integration at ICLR Workshop 2025.",
     link: "https://iclragenticai.github.io/",
   },
   {
