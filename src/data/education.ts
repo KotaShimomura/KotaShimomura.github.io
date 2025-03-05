@@ -13,13 +13,14 @@ export const educationData: Education[] = [
     year: "2021—Present",
     institution: "Chubu University",
     degree: "Ph.D.,Department of InformationEngineering",
-    advisor: "Prof. Takayoshi Yamashita",
+    advisor: "Prof. Takayoshi Yamashita and Prof. Hironobu Fujiyoshi",
   },
   {
     year: "2022—2024",
     institution: "Chubu University",
     degree: "M.E.,Department of InformationEngineering",
     thesis: "Potential Risk Localization using Single Monoculer Camera",
+    advisor: "Prof. Takayoshi Yamashita and Prof. Hironobu Fujiyoshi",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
@@ -28,6 +29,7 @@ export const educationData: Education[] = [
     institution: "Chubu University",
     degree: "B.E., Department of InformationEngineerin",
     thesis: "Failure Cause Analysis of Automotive Parts Using Machine Learning",
+    advisor: "Prof. Tohgoroh Matsui",
     // Optional links to thesis
     // thesisUrl: "https://dspace.mit.edu/handle/1721.1/149111"
   },
