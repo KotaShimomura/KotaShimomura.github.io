@@ -10,6 +10,15 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
   {
+    date: "Summer 2024 - Present",
+    title: "Part-time Researcher",
+    company: "Elith Co., Ltd.",
+    description:
+      "Engaged in research on Autonomous Driving, ADAS, and multi-agent systems",
+    // advisor: "Peter Wang",
+    companyUrl: "https://www.elith.co.jp/company",
+  },
+  {
     date: "Summer 2024",
     title: "Research Intern",
     company: "Elith Co., Ltd.",
