@@ -25,6 +25,21 @@ export const publicationData: Publication[] = [
   //   // imageUrl: "/images/publication-image.jpg"
   // },
   {
+    year: "2025",
+    conference: "ICLR Workshop",
+    title: "Dynamic Knowledge Integration in Multi-Agent Systems for Content Inference",
+    authors: "Atsushi Yamamoto, Takumi Iida, Taito Naruki, Akihiko Katagiri, Yudai Koike, Ryuta Shimogauchi, Kota Shimomura, Eri Onami, Koki Inoue, Osamu Ito",
+    paperUrl: "https://openreview.net/pdf?id=5XNYu4rBe4",
+  },
+  {
+    year: "2024",
+    conference: "IEEE 27th ITSC",
+    title: "How to Extend the Dataset to Account for Traffic Risk Considering the Surrounding Environment",
+    authors: "Kota Shimomura, Koki Inoue, Kazuaki Ohmori, Ryuta Shimogauchi, Ryota Mimura, Atsuya Ishikawa, Takayuki Kawabuchi",
+    paperUrl: "https://ieeexplore.ieee.org/abstract/document/10920145",
+  },
+
+  {
     year: "2024",
     conference: "CVPR Workshops",
     title: "Potential Risk Localization via Weak Labeling out of Blind Spot",
