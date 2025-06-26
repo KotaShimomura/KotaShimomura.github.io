@@ -7,12 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
-  // {
-  //   date: "March 2025",
-  //   title: "Paper accepted at ICLR Workshop 2025",
-  //   description: "A multi-agent system with dynamic knowledge integration has been accepted at ICLR Workshop 2025.",
-  //   link: "https://iclragenticai.github.io/",
-  // },
+  {
+    date: "June 2025",
+    title: "Paper accepted at ICCV2025",
+    description: "OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving",
+    link: "https://iccv.thecvf.com/",
+  },
   // {
   //   date: "July 2024",
   //   title: "Paper accepted at IEEE ITSC 2024",
