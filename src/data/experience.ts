@@ -9,6 +9,15 @@ export interface Experience {
 }
 
 export const experienceData: Experience[] = [
+   {
+    date: "June 2025 - Present",
+    title: "Research Intern",
+    company: "Turing Inc.",
+    description:
+      "Resech on 3D Gaussian Splatting for Autonomous Driving Evaluation systems",
+    // advisor: "Peter Wang",
+    companyUrl: "https://tur.ing/en",
+  },
   {
     date: "Summer 2024 - Present",
     title: "Part-time Researcher",
