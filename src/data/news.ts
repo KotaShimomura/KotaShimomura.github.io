@@ -7,6 +7,12 @@ export interface News {
 
 export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
+    {
+    date: "July 2025",
+    title: "Paper accepted at IEEE ITSC 2025",
+    description: "Enhancing Navigation Text Generation and Visual Explanation Using Spatio-Temporal Scene Graphs with Graph Attention Networks",
+    link: "https://ieee-itsc.org/2025/",
+  },
   {
     date: "June 2025",
     title: "Paper accepted at ICCV2025",
