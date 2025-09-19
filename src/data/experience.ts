@@ -14,7 +14,7 @@ export const experienceData: Experience[] = [
     title: "Research Intern",
     company: "Turing Inc.",
     description:
-      "Resech on 3D Gaussian Splatting for Autonomous Driving Evaluation systems",
+      "Resech on 3D Gaussian Splatting for Closed-Loop Autonomous Driving Evaluation systems",
     // advisor: "Peter Wang",
     companyUrl: "https://tur.ing/en",
   },
