@@ -7,17 +7,11 @@ export interface News {
 
 export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
-    {
-    date: "July 2025",
-    title: "Paper accepted at IEEE ITSC 2025",
-    description: "Enhancing Navigation Text Generation and Visual Explanation Using Spatio-Temporal Scene Graphs with Graph Attention Networks",
-    link: "https://ieee-itsc.org/2025/",
-  },
   {
-    date: "June 2025",
-    title: "Paper accepted at ICCV2025",
-    description: "OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving",
-    link: "https://iccv.thecvf.com/",
+    date: "February 2026",
+    title: "Paper accepted at CVPR2026",
+    description: "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction has been accepted at CVPR2026.",
+    link: "https://cvpr.thecvf.com/",
   },
   // {
   //   date: "July 2024",

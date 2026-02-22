@@ -24,6 +24,21 @@ export const publicationData: Publication[] = [
   //   // if you have an image in public/images, you can use it like this:
   //   // imageUrl: "/images/publication-image.jpg"
   // },
+    {
+    year: "2025",
+    conference: "IEEE ITSC",
+    title: "Enhancing Navigation Text Generation and Visual Explanation Using Spatio-Temporal Scene Graphs with Graph Attention Networks",
+    authors: "Hayato Suzuki, Kota Shimomura, Tsubasa Hirakawa, Takayoshi Yamashita,Hironobu Fujiyoshi",
+    paperUrl: "https://its.papercept.net/conferences/scripts/abstract.pl?ConfID=91&Number=636",
+  },
+    {
+    year: "2025",
+    conference: "ICCV",
+    title: "OD-RASE: Ontology-Driven Risk Assessment and Safety Enhancement for Autonomous Driving",
+    authors: "Kota Shimomura, Masaki Nambata, Atsuya Ishikawa, Ryota Mimura, Koki Inoue, Takayoshi Yamashita, Takayuki Kawabuchi",
+    paperUrl: "https://openaccess.thecvf.com/content/ICCV2025/html/Shimomura_OD-RASE_Ontology-Driven_Risk_Assessment_and_Safety_Enhancement_for_Autonomous_Driving_ICCV_2025_paper.html",
+    bibtex: "https://kotashimomura.github.io/odrase/",
+  },
   {
     year: "2025",
     conference: "ICLR Workshop",
