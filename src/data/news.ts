@@ -13,12 +13,12 @@ export const newsData: News[] = [
     description: "NON-MONOTONICITY AND CATASTROPHIC RISK OF PROMPT INTERVENTIONS IN ADVERSARIAL LLM CONTROL has been accepted at ICLR WS2026.",
     link: "https://openreview.net/forum?id=HPw77rwbrb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FICBINB%2FAuthors%23your-submissions)",
   },
-  {
-    date: "February 2026",
-    title: "Paper accepted at CVPR2026",
-    description: "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction has been accepted at CVPR2026.",
-    link: "https://cvpr.thecvf.com/",
-  },
+  // {
+  //   date: "February 2026",
+  //   title: "Paper accepted at CVPR2026",
+  //   description: "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction has been accepted at CVPR2026.",
+  //   link: "https://cvpr.thecvf.com/",
+  // },
   // {
   //   date: "July 2024",
   //   title: "Paper accepted at IEEE ITSC 2024",

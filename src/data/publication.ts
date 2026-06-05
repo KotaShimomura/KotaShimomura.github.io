@@ -25,6 +25,13 @@ export const publicationData: Publication[] = [
   //   // imageUrl: "/images/publication-image.jpg"
   // },
     {
+    year: "2026",
+    conference: "CVPR Main",
+    title: "P2GS: Physical Prior-guided Gaussian Splatting for Photometrically Consistent Urban Reconstruction",
+    authors: "Kota Shimomura, Hidehisa Arai, Tsubasa Takahashi, Takayoshi Yamashita, Hironobu Fujiyoshi",
+    paperUrl: "https://openaccess.thecvf.com/content/CVPR2026/html/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.html"
+  },
+    {
     year: "2025",
     conference: "IEEE ITSC",
     title: "Enhancing Navigation Text Generation and Visual Explanation Using Spatio-Temporal Scene Graphs with Graph Attention Networks",
