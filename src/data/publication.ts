@@ -31,6 +31,13 @@ export const publicationData: Publication[] = [
     authors: "Kota Shimomura, Hidehisa Arai, Tsubasa Takahashi, Takayoshi Yamashita, Hironobu Fujiyoshi",
     paperUrl: "https://openaccess.thecvf.com/content/CVPR2026/html/Shimomura_P2GS_Physical_Prior-guided_Gaussian_Splatting_for_Photometrically_Consistent_Urban_Reconstruction_CVPR_2026_paper.html"
   },
+     {
+    year: "2026",
+    conference: "ICLR WS2026",
+    title: "NON-MONOTONICITY AND CATASTROPHIC RISK OF PROMPT INTERVENTIONS IN ADVERSARIAL LLM CONTROL",
+    authors: "Koki Inoue, Naoya Takashima, Hayato Fujihara, SHUYA HIGUCHI, Kota Shimomura, Ryuta Shimogauchi, Takayoshi Yamashita",
+    paperUrl: "https://openreview.net/forum?id=HPw77rwbrb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FICBINB%2FAuthors%23your-submissions)",
+  },
     {
     year: "2025",
     conference: "IEEE ITSC",

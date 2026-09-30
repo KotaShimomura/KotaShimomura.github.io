@@ -10,7 +10,7 @@ export interface Experience {
 
 export const experienceData: Experience[] = [
    {
-    date: "June 2025 - Present",
+    date: "June 2025 - March 2026",
     title: "Research Intern",
     company: "Turing Inc.",
     description:

@@ -8,10 +8,10 @@ export interface News {
 export const newsData: News[] = [
   // If you don't want to show news, just make the array empty.
   {
-    date: "March 2026",
-    title: "Paper accepted at ICLR WS2026",
-    description: "NON-MONOTONICITY AND CATASTROPHIC RISK OF PROMPT INTERVENTIONS IN ADVERSARIAL LLM CONTROL has been accepted at ICLR WS2026.",
-    link: "https://openreview.net/forum?id=HPw77rwbrb&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FWorkshop%2FICBINB%2FAuthors%23your-submissions)",
+    date: "Sept 2026",
+    title: "Preprint at arXiv",
+    description: "EviSplat: Preserving Multi-View Evidence in 3D Gaussian Splatting for Open-Vocabulary Segmentation",
+    link: "https://arxiv.org/abs/2609.34853",
   },
   // {
   //   date: "February 2026",
